@@ -1,0 +1,11 @@
+C:\Users\spuns\source\repos\Salary_Compare_Example\Salary_Compare_Example\bin\Debug\netcoreapp3.0\Salary_Compare_Example.exe
+C:\Users\spuns\source\repos\Salary_Compare_Example\Salary_Compare_Example\bin\Debug\netcoreapp3.0\Salary_Compare_Example.deps.json
+C:\Users\spuns\source\repos\Salary_Compare_Example\Salary_Compare_Example\bin\Debug\netcoreapp3.0\Salary_Compare_Example.runtimeconfig.json
+C:\Users\spuns\source\repos\Salary_Compare_Example\Salary_Compare_Example\bin\Debug\netcoreapp3.0\Salary_Compare_Example.runtimeconfig.dev.json
+C:\Users\spuns\source\repos\Salary_Compare_Example\Salary_Compare_Example\bin\Debug\netcoreapp3.0\Salary_Compare_Example.dll
+C:\Users\spuns\source\repos\Salary_Compare_Example\Salary_Compare_Example\bin\Debug\netcoreapp3.0\Salary_Compare_Example.pdb
+C:\Users\spuns\source\repos\Salary_Compare_Example\Salary_Compare_Example\obj\Debug\netcoreapp3.0\Salary_Compare_Example.csprojAssemblyReference.cache
+C:\Users\spuns\source\repos\Salary_Compare_Example\Salary_Compare_Example\obj\Debug\netcoreapp3.0\Salary_Compare_Example.AssemblyInfoInputs.cache
+C:\Users\spuns\source\repos\Salary_Compare_Example\Salary_Compare_Example\obj\Debug\netcoreapp3.0\Salary_Compare_Example.AssemblyInfo.cs
+C:\Users\spuns\source\repos\Salary_Compare_Example\Salary_Compare_Example\obj\Debug\netcoreapp3.0\Salary_Compare_Example.dll
+C:\Users\spuns\source\repos\Salary_Compare_Example\Salary_Compare_Example\obj\Debug\netcoreapp3.0\Salary_Compare_Example.pdb
