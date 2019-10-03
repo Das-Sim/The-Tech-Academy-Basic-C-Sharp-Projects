@@ -1,0 +1,11 @@
+C:\Users\spuns\source\repos\Math_Operations_Step_66\Math_Operations_Step_66\bin\Debug\netcoreapp3.0\Math_Operations_Step_66.exe
+C:\Users\spuns\source\repos\Math_Operations_Step_66\Math_Operations_Step_66\bin\Debug\netcoreapp3.0\Math_Operations_Step_66.deps.json
+C:\Users\spuns\source\repos\Math_Operations_Step_66\Math_Operations_Step_66\bin\Debug\netcoreapp3.0\Math_Operations_Step_66.runtimeconfig.json
+C:\Users\spuns\source\repos\Math_Operations_Step_66\Math_Operations_Step_66\bin\Debug\netcoreapp3.0\Math_Operations_Step_66.runtimeconfig.dev.json
+C:\Users\spuns\source\repos\Math_Operations_Step_66\Math_Operations_Step_66\bin\Debug\netcoreapp3.0\Math_Operations_Step_66.dll
+C:\Users\spuns\source\repos\Math_Operations_Step_66\Math_Operations_Step_66\bin\Debug\netcoreapp3.0\Math_Operations_Step_66.pdb
+C:\Users\spuns\source\repos\Math_Operations_Step_66\Math_Operations_Step_66\obj\Debug\netcoreapp3.0\Math_Operations_Step_66.csprojAssemblyReference.cache
+C:\Users\spuns\source\repos\Math_Operations_Step_66\Math_Operations_Step_66\obj\Debug\netcoreapp3.0\Math_Operations_Step_66.AssemblyInfoInputs.cache
+C:\Users\spuns\source\repos\Math_Operations_Step_66\Math_Operations_Step_66\obj\Debug\netcoreapp3.0\Math_Operations_Step_66.AssemblyInfo.cs
+C:\Users\spuns\source\repos\Math_Operations_Step_66\Math_Operations_Step_66\obj\Debug\netcoreapp3.0\Math_Operations_Step_66.dll
+C:\Users\spuns\source\repos\Math_Operations_Step_66\Math_Operations_Step_66\obj\Debug\netcoreapp3.0\Math_Operations_Step_66.pdb
