@@ -1,0 +1,10 @@
+C:\Users\spuns\source\repos\Boolean_Logic_Step_75\Boolean_Logic_Step_75\bin\Debug\netcoreapp3.0\Boolean_Logic_Step_75.exe
+C:\Users\spuns\source\repos\Boolean_Logic_Step_75\Boolean_Logic_Step_75\bin\Debug\netcoreapp3.0\Boolean_Logic_Step_75.deps.json
+C:\Users\spuns\source\repos\Boolean_Logic_Step_75\Boolean_Logic_Step_75\bin\Debug\netcoreapp3.0\Boolean_Logic_Step_75.runtimeconfig.json
+C:\Users\spuns\source\repos\Boolean_Logic_Step_75\Boolean_Logic_Step_75\bin\Debug\netcoreapp3.0\Boolean_Logic_Step_75.runtimeconfig.dev.json
+C:\Users\spuns\source\repos\Boolean_Logic_Step_75\Boolean_Logic_Step_75\bin\Debug\netcoreapp3.0\Boolean_Logic_Step_75.dll
+C:\Users\spuns\source\repos\Boolean_Logic_Step_75\Boolean_Logic_Step_75\bin\Debug\netcoreapp3.0\Boolean_Logic_Step_75.pdb
+C:\Users\spuns\source\repos\Boolean_Logic_Step_75\Boolean_Logic_Step_75\obj\Debug\netcoreapp3.0\Boolean_Logic_Step_75.AssemblyInfoInputs.cache
+C:\Users\spuns\source\repos\Boolean_Logic_Step_75\Boolean_Logic_Step_75\obj\Debug\netcoreapp3.0\Boolean_Logic_Step_75.AssemblyInfo.cs
+C:\Users\spuns\source\repos\Boolean_Logic_Step_75\Boolean_Logic_Step_75\obj\Debug\netcoreapp3.0\Boolean_Logic_Step_75.dll
+C:\Users\spuns\source\repos\Boolean_Logic_Step_75\Boolean_Logic_Step_75\obj\Debug\netcoreapp3.0\Boolean_Logic_Step_75.pdb
