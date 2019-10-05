@@ -1,0 +1,6 @@
+C:\Users\spuns\source\repos\Bool_Loops_Example\Bool_Loops_Example\bin\Debug\Bool_Loops_Example.exe.config
+C:\Users\spuns\source\repos\Bool_Loops_Example\Bool_Loops_Example\bin\Debug\Bool_Loops_Example.exe
+C:\Users\spuns\source\repos\Bool_Loops_Example\Bool_Loops_Example\bin\Debug\Bool_Loops_Example.pdb
+C:\Users\spuns\source\repos\Bool_Loops_Example\Bool_Loops_Example\obj\Debug\Bool_Loops_Example.csprojAssemblyReference.cache
+C:\Users\spuns\source\repos\Bool_Loops_Example\Bool_Loops_Example\obj\Debug\Bool_Loops_Example.exe
+C:\Users\spuns\source\repos\Bool_Loops_Example\Bool_Loops_Example\obj\Debug\Bool_Loops_Example.pdb
