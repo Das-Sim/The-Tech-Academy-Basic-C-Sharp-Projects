@@ -1,0 +1,6 @@
+C:\Users\spuns\source\repos\Strings_Example\Strings_Example\bin\Debug\Strings_Example.exe.config
+C:\Users\spuns\source\repos\Strings_Example\Strings_Example\bin\Debug\Strings_Example.exe
+C:\Users\spuns\source\repos\Strings_Example\Strings_Example\bin\Debug\Strings_Example.pdb
+C:\Users\spuns\source\repos\Strings_Example\Strings_Example\obj\Debug\Strings_Example.csprojAssemblyReference.cache
+C:\Users\spuns\source\repos\Strings_Example\Strings_Example\obj\Debug\Strings_Example.exe
+C:\Users\spuns\source\repos\Strings_Example\Strings_Example\obj\Debug\Strings_Example.pdb
