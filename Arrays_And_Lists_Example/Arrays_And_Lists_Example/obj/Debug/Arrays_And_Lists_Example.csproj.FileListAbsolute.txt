@@ -1,0 +1,5 @@
+C:\Users\spuns\source\repos\Arrays_And_Lists_Example\Arrays_And_Lists_Example\bin\Debug\Arrays_And_Lists_Example.exe.config
+C:\Users\spuns\source\repos\Arrays_And_Lists_Example\Arrays_And_Lists_Example\bin\Debug\Arrays_And_Lists_Example.exe
+C:\Users\spuns\source\repos\Arrays_And_Lists_Example\Arrays_And_Lists_Example\bin\Debug\Arrays_And_Lists_Example.pdb
+C:\Users\spuns\source\repos\Arrays_And_Lists_Example\Arrays_And_Lists_Example\obj\Debug\Arrays_And_Lists_Example.exe
+C:\Users\spuns\source\repos\Arrays_And_Lists_Example\Arrays_And_Lists_Example\obj\Debug\Arrays_And_Lists_Example.pdb
