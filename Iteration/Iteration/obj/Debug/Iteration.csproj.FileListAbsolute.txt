@@ -1,0 +1,5 @@
+C:\Users\spuns\source\repos\Iteration\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\spuns\source\repos\Iteration\Iteration\bin\Debug\Iteration.exe
+C:\Users\spuns\source\repos\Iteration\Iteration\bin\Debug\Iteration.pdb
+C:\Users\spuns\source\repos\Iteration\Iteration\obj\Debug\Iteration.exe
+C:\Users\spuns\source\repos\Iteration\Iteration\obj\Debug\Iteration.pdb
