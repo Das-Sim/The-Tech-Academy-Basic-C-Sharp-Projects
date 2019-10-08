@@ -1,0 +1,6 @@
+C:\Users\spuns\source\repos\Exception_Handling_Examples\Exception_Handling_Examples\obj\Debug\Exception_Handling_Examples.csprojAssemblyReference.cache
+C:\Users\spuns\source\repos\Exception_Handling_Examples\Exception_Handling_Examples\bin\Debug\Exception_Handling_Examples.exe.config
+C:\Users\spuns\source\repos\Exception_Handling_Examples\Exception_Handling_Examples\bin\Debug\Exception_Handling_Examples.exe
+C:\Users\spuns\source\repos\Exception_Handling_Examples\Exception_Handling_Examples\bin\Debug\Exception_Handling_Examples.pdb
+C:\Users\spuns\source\repos\Exception_Handling_Examples\Exception_Handling_Examples\obj\Debug\Exception_Handling_Examples.exe
+C:\Users\spuns\source\repos\Exception_Handling_Examples\Exception_Handling_Examples\obj\Debug\Exception_Handling_Examples.pdb
