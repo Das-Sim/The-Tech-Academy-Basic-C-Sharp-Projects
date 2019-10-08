@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Iteration_Exercise/1.0.0": {
+        "runtime": {
+          "Iteration_Exercise.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Iteration_Exercise/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

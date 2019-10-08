@@ -1,0 +1,11 @@
+C:\Users\spuns\source\repos\Iteration_Exercise\Iteration_Exercise\obj\Debug\netcoreapp3.0\Iteration_Exercise.csprojAssemblyReference.cache
+C:\Users\spuns\source\repos\Iteration_Exercise\Iteration_Exercise\obj\Debug\netcoreapp3.0\Iteration_Exercise.AssemblyInfoInputs.cache
+C:\Users\spuns\source\repos\Iteration_Exercise\Iteration_Exercise\obj\Debug\netcoreapp3.0\Iteration_Exercise.AssemblyInfo.cs
+C:\Users\spuns\source\repos\Iteration_Exercise\Iteration_Exercise\bin\Debug\netcoreapp3.0\Iteration_Exercise.exe
+C:\Users\spuns\source\repos\Iteration_Exercise\Iteration_Exercise\bin\Debug\netcoreapp3.0\Iteration_Exercise.deps.json
+C:\Users\spuns\source\repos\Iteration_Exercise\Iteration_Exercise\bin\Debug\netcoreapp3.0\Iteration_Exercise.runtimeconfig.json
+C:\Users\spuns\source\repos\Iteration_Exercise\Iteration_Exercise\bin\Debug\netcoreapp3.0\Iteration_Exercise.runtimeconfig.dev.json
+C:\Users\spuns\source\repos\Iteration_Exercise\Iteration_Exercise\bin\Debug\netcoreapp3.0\Iteration_Exercise.dll
+C:\Users\spuns\source\repos\Iteration_Exercise\Iteration_Exercise\bin\Debug\netcoreapp3.0\Iteration_Exercise.pdb
+C:\Users\spuns\source\repos\Iteration_Exercise\Iteration_Exercise\obj\Debug\netcoreapp3.0\Iteration_Exercise.dll
+C:\Users\spuns\source\repos\Iteration_Exercise\Iteration_Exercise\obj\Debug\netcoreapp3.0\Iteration_Exercise.pdb
