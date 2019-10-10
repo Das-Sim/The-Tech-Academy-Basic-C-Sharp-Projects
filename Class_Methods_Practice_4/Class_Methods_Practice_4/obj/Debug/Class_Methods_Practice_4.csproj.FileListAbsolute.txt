@@ -1,0 +1,6 @@
+C:\Users\spuns\source\repos\Class_Methods_Practice_4\Class_Methods_Practice_4\bin\Debug\Class_Methods_Practice_4.exe.config
+C:\Users\spuns\source\repos\Class_Methods_Practice_4\Class_Methods_Practice_4\bin\Debug\Class_Methods_Practice_4.exe
+C:\Users\spuns\source\repos\Class_Methods_Practice_4\Class_Methods_Practice_4\bin\Debug\Class_Methods_Practice_4.pdb
+C:\Users\spuns\source\repos\Class_Methods_Practice_4\Class_Methods_Practice_4\obj\Debug\Class_Methods_Practice_4.csprojAssemblyReference.cache
+C:\Users\spuns\source\repos\Class_Methods_Practice_4\Class_Methods_Practice_4\obj\Debug\Class_Methods_Practice_4.exe
+C:\Users\spuns\source\repos\Class_Methods_Practice_4\Class_Methods_Practice_4\obj\Debug\Class_Methods_Practice_4.pdb
