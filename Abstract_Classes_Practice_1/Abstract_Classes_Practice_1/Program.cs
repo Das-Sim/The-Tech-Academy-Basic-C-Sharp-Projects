@@ -16,6 +16,8 @@ namespace Abstract_Classes_Practice_1
             temp.lastName = "Student"; //- and lastName "Student".
             temp.SayName(); //- Call the SayName() method on the object.
             Console.ReadLine();
+            IQuittable leave = new Employee(); //3a. Use polymorphism to create an object of type IQuittable. 
+            leave.Quit(); //- Call the Quit() method on it.
         }
     }
 }
