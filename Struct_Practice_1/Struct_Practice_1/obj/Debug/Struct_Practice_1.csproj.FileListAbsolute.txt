@@ -1,0 +1,5 @@
+C:\Users\spuns\source\repos\Struct_Practice_1\Struct_Practice_1\bin\Debug\Struct_Practice_1.exe.config
+C:\Users\spuns\source\repos\Struct_Practice_1\Struct_Practice_1\bin\Debug\Struct_Practice_1.exe
+C:\Users\spuns\source\repos\Struct_Practice_1\Struct_Practice_1\bin\Debug\Struct_Practice_1.pdb
+C:\Users\spuns\source\repos\Struct_Practice_1\Struct_Practice_1\obj\Debug\Struct_Practice_1.exe
+C:\Users\spuns\source\repos\Struct_Practice_1\Struct_Practice_1\obj\Debug\Struct_Practice_1.pdb
