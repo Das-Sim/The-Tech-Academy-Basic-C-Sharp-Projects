@@ -12,6 +12,6 @@ namespace Abstract_Classes_Practice_1
         public string firstName { get; set; } //- string firstName
         public string lastName { get; set; } //- and string lastName.
 
-        public abstract void SayName();  //- 2. Give it the method SayName().            
+        //public abstract void SayName();  //- 2. Give it the method SayName().            
     }
 }
